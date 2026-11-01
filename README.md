@@ -1,9 +1,5 @@
 # Phoenix-Webseite-Public
 
-Separates Veröffentlichungsrepository für die Phoenix-Projektwebseite. **Zunächst privat, keine Veröffentlichung freigegeben.**
-
-Die vollständige Website wird weiterhin ausschließlich im privaten Repository `Zimphi/Phoenix-Webseite` entwickelt. Dieses Repository enthält vorerst nur die linkfreie Phoenix-404-Seite, das öffentliche Logo und die nötigen Styles. Es hat eine frische Historie ohne private Projektquellen, APKs, Kerne, Zugangsdaten oder importierte Entwicklungshistorie.
-
 ## Spätere 404-Veröffentlichung
 
 - Erfordert eine ausdrückliche Freigabe für öffentliche Sichtbarkeit und Veröffentlichung dieses Repositories. Die Anweisung vom 2026-11-01 lautet: erst privat anlegen.
